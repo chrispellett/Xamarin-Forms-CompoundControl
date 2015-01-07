@@ -1,0 +1,1 @@
+A sample for how to create a compound Xamarin.Forms control that allows for elements to be placed over top of one another. The default/only behaviour is that the elements will be centered on the same point. A simple example is placing text over top of an image.
