@@ -1,11 +1,14 @@
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.SamplePage.xaml.g.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.CompoundControl.xaml.g.cs
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.SamplePage.xaml
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.CompoundControl.xaml
-/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/SamplePage.xaml.g.cs
-/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.xaml.g.cs
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/CompoundControl.dll.mdb
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/CompoundControl.dll
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.dll
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.dll.mdb
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/Xamarin.Forms.Core.dll
 /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.CompoundElement.xaml.g.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/obj/Debug/CompoundControl.CompoundElement.xaml

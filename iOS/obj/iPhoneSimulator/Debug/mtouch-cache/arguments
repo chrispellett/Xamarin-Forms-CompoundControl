@@ -1,35 +1,148 @@
-# Version: 8.4.0.47 (7244769)
-# [first argument, ignore] # /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.47/bin/mtouch \
-	-sdkroot \
-	/Applications/Xcode.app/Contents/Developer \
+# Version: 9.6.1.9 (cycle6-xi-c6sr3: 5f11db8)
+# [first argument, ignore] # /Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.6.1.9/bin/mtouch \
 	--cache \
 	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--nomanifest \
 	--nosign \
-	-sim \
+	--sim \
 	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/CompoundControliOS.app \
-	-r \
-	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/CompoundControl.dll \
+	--executable \
+	CompoundControliOS \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.3 \
+	--targetver \
+	7.0 \
+	--abi=i386 \
+	--symbollist \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
 	-r \
-	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
-	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
 	-r \
-	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.1.3.0.6292/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.Classic.dll \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.Classic.dll \
 	-r \
-	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.1.3.0.6292/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.1.3.0.6292/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
-	-debug \
-	-nolink \
-	-sdk \
-	8.1 \
-	-targetver \
-	7.0 \
-	--abi=i386 \
-	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/CompoundControliOS.exe \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-r \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Platform.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/CompoundControl.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/mscorlib.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Collections.Concurrent.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Collections.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.ComponentModel.Annotations.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.ComponentModel.EventBasedAsync.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.ComponentModel.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Diagnostics.Contracts.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Diagnostics.Debug.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Diagnostics.Tools.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Diagnostics.Tracing.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Dynamic.Runtime.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Globalization.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.IO.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Linq.Expressions.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Linq.Parallel.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Linq.Queryable.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Linq.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Net.NetworkInformation.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Net.Primitives.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Net.Requests.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.ObjectModel.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Reflection.Extensions.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Reflection.Primitives.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Reflection.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Resources.ResourceManager.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.Extensions.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.InteropServices.WindowsRuntime.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.InteropServices.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.Numerics.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.Serialization.Json.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.Serialization.Primitives.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.Serialization.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Runtime.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Security.Principal.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.ServiceModel.Http.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.ServiceModel.Primitives.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.ServiceModel.Security.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Text.Encoding.Extensions.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Text.Encoding.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Text.RegularExpressions.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Threading.Tasks.Parallel.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Threading.Tasks.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Threading.Timer.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Threading.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Xml.ReaderWriter.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Xml.XDocument.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/Facades/System.Xml.XmlSerializer.dll \
+	-r \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.Classic.dll \
+	-r \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-r \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/packages/Xamarin.Forms.2.1.0.6529/lib/MonoTouch10/Xamarin.Forms.Platform.dll \
+	-r \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/CompoundControl/bin/Debug/CompoundControl.dll \
+	--target-framework \
+	"MonoTouch,v1.0" \
+	/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug//CompoundControliOS.exe \

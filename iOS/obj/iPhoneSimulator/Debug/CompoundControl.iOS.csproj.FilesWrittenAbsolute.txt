@@ -1,0 +1,14 @@
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/optimized/Default-568h@2x.png
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/optimized/BlankProfile.png
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/CompoundControliOS.exe.mdb
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/CompoundControliOS.exe
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/CompoundControliOS.exe
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/obj/iPhoneSimulator/Debug/CompoundControliOS.exe.mdb
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.Classic.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/CompoundControl.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/CompoundControl/iOS/bin/iPhoneSimulator/Debug/CompoundControl.dll.mdb

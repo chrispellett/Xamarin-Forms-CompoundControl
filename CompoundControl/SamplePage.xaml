@@ -1,12 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CompoundControl.SamplePage" xmlns:controls="clr-namespace:CompoundControl;assembly=CompoundControl">
 	<ContentPage.Content>
-		<controls:CompoundElement WidthRequest="200">
-			<BoxView Color="Silver" HeightRequest="50" VerticalOptions="End" />
-			<Image Source="BlankProfile.png" WidthRequest="20" HorizontalOptions="End" />
-			<Label Text="Hello world" TextColor="Lime" XAlign="Center" />
-			<!--- controls:CompoundControl.ZOrder="2" -->
-			<Label Text="Text on box" TextColor="Red" XAlign="Center" HeightRequest="50" VerticalOptions="End" YAlign="Center" />
-		</controls:CompoundElement>
+		<StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Spacing="10">
+			<controls:CompoundElement WidthRequest="150" HeightRequest="150" BackgroundColor="Silver">
+				<Image Source="BlankProfile.png" WidthRequest="100" />
+				<BoxView Color="Red" HeightRequest="50" VerticalOptions="End" />
+				<Label Text="Hello world" TextColor="Green" XAlign="Center" BackgroundColor="Transparent" />
+			</controls:CompoundElement>
+
+			<controls:CompoundElement WidthRequest="75" HeightRequest="75" BackgroundColor="Silver">
+				<BoxView Color="Black" HeightRequest="60" VerticalOptions="Start" />
+				<Label Text="Text on box" TextColor="Red" XAlign="Center" HeightRequest="50" VerticalOptions="End" YAlign="Center" />
+			</controls:CompoundElement>
+
+			<controls:CompoundElement WidthRequest="175" HeightRequest="100" BackgroundColor="Silver">
+				<Image Source="BlankProfile.png" WidthRequest="90" />
+				<Label Text="Top Left" TextColor="Maroon" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Transparent" />
+				<Label Text="Top Right" TextColor="Maroon" HorizontalOptions="End" VerticalOptions="Start" BackgroundColor="Transparent" />
+				<Label Text="Bottom Left" TextColor="Maroon" HorizontalOptions="Start" VerticalOptions="End" BackgroundColor="Transparent" />
+				<Label Text="Bottom Right" TextColor="Maroon" HorizontalOptions="End" VerticalOptions="End" BackgroundColor="Transparent" />
+			</controls:CompoundElement>
+		</StackLayout>
 	</ContentPage.Content>
 </ContentPage>
